@@ -1,5 +1,5 @@
 Bitirme  Projesi
-===============================================================================================
+================
 Görüntü İşleme ve İvme Ölçer Sinyalleri ile El Hızının Tahmin Edilmesi ve Protez Elin Sürülmesi
 İzlenecek Adımlar,
 
